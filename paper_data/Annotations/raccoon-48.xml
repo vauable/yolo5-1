@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>raccoon-48.jpg</filename>
+	<path>G:\yolov5\paper_data\images\raccoon-48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>261</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reccon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>72</ymin>
+			<xmax>113</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

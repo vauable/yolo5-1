@@ -1,0 +1,10 @@
+G:/yolov5/paper_data/paper_data/images/raccoon-13.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-23.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-25.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-42.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-65.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-66.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-76.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-89.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-91.jpg
+G:/yolov5/paper_data/paper_data/images/raccoon-92.jpg

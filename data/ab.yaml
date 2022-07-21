@@ -1,0 +1,7 @@
+
+train: G:/yolov5/paper_data/train.txt
+val: G:/yolov5/paper_data/val.txt
+#number of classes
+nc: 1
+
+name: ['reccon']

@@ -1,0 +1,6 @@
+train: G:\yolov5\reccon\train
+val: G:\yolov5\reccon\val
+#number of classes
+nc: 1
+
+name: ['reccon']
